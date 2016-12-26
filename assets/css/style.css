@@ -391,7 +391,7 @@ header{
 #testimonial {
     background: url(../images/parallax.jpg);
     padding: 80px 0px 80px 0px;
-    color: #fff;
+    color: #000000;
     background-attachment: fixed;
     background-size: cover;
 }
