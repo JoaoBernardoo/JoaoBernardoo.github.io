@@ -101,6 +101,7 @@ header{
 	background-position: 50% -50px;
 }
 .center {
+	margin: auto;
     text-align: center;
     color: #fff;
 }
